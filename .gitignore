@@ -1,0 +1,15 @@
+# 파일
+*.pyc
+*.pyo
+*.pyd
+*.csv
+.DS_Store
+Thumbs.db
+
+# 폴더
+__pycache__/
+venv/
+.venv/
+.vscode/
+.idea/
+.pytest_cache/
